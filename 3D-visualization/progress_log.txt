@@ -1,0 +1,6 @@
+1. Finetuned the skeleton of the project i.e. presumably made the final choice on which elements 
+to use from scalafx.
+
+2. Started building the 3D structure
+
+3. Instead of implementing the 3D -> 2D projection with vectors, switched back to matrices since easier
